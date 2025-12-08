@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/d016844p/Documents/GitHub/Mechanics_Prototyping/Content/StartMap.umap",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/MechGameMode.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/IA_Move.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/NewInputMappingContext.uasset",
